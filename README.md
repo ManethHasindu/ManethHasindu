@@ -15,10 +15,7 @@
 - **Email**: [manethhasindu@gmail.com](mailto:manethhasindu@gmail.com)
 - **Connect with me**:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/manethhasindu) 
-  [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/ManethHasindu)  
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com)  
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com)  
-  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com)
+
 
 ---
 
