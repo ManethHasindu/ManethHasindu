@@ -1,4 +1,4 @@
-<cwnter> # Hey there! 👋 I'm Maneth Hasindu </cwnter>
+# Hey there! 👋 I'm Maneth Hasindu
 
 ## 🌟 Fullstack Developer | Undergraduate | Passionate Learner
 
