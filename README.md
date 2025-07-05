@@ -58,4 +58,4 @@
 ---
 
 ### 💡 Fun Fact:
-I love exploring **creative problem-solving** and **innovative designs** in technology while keeping a good balance between work and fun! 😄
+I love exploring **creative problem-solving** and **innovative designs** in technology while keeping a good balance between work and fun! 
